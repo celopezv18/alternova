@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Cyberpunk 2077",
+      "category": "xbox",
+      "image": "https://imgur.com/3CF1UhY.png",
+      "price": 36.49,
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "name": "Grand Theft Auto 5",
+      "category": "xbox",
+      "image": "https://imgur.com/BqNWnDB.png",
+      "price": 21.99,
+      "stock": 5
+    },
+    {
+      "id": 8,
+      "name": "Fortnite",
+      "category": "ps5",
+      "image": "https://imgur.com/3lTxDpl.png",
+      "price": 29.99,
+      "stock": 5
+    },
+    {
+      "id": 9,
+      "name": "Call of Duty: Black Ops",
+      "category": "ps5",
+      "image": "https://imgur.com/4GvUw3G.png",
+      "price": 69.99,
+      "stock": 5
+    },
+    {
+      "id": 14,
+      "name": "Animal Crossing",
+      "category": "switch",
+      "image": "https://imgur.com/1SVaEBk.png",
+      "price": 59.99,
+      "stock": 5
+    },
+    {
+      "id": 15,
+      "name": "The Legend of Zelda",
+      "category": "switch",
+      "image": "https://imgur.com/IX5eunc.png",
+      "price": 59.99,
+      "stock": 5
+    },
+    {
+      "id": 19,
+      "name": "Grand Theft Auto 5",
+      "category": "pc",
+      "image": "https://imgur.com/9LRil4N.png",
+      "price": 29.99,
+      "stock": 5
+    },
+    {
+      "id": 20,
+      "name": "Battlefield V",
+      "category": "pc",
+      "image": "https://imgur.com/T3v629h.png",
+      "price": 39.99,
+      "stock": 5
+    },
+    {
+      "id": 26,
+      "name": "Xbox Controller",
+      "category": "accessories",
+      "image": "https://imgur.com/a964vBm.png",
+      "price": 59.0,
+      "stock": 5
+    },
+    {
+      "id": 27,
+      "name": "Xbox Controller",
+      "category": "accessories",
+      "image": "https://imgur.com/ntrEPb1.png",
+      "price": 69.0,
+      "stock": 0
+    }
+  ]  
